@@ -20,7 +20,7 @@ yarn add @netsells/storybook-directories
 
 Import the package into your storybook config, and update your `configure` statement to pass in the `storybookDirectories` function with a `stories` parameter which matches your `require.context` call.
 
-```sh
+```js
 import storybookDirectories from '@netsells/storybook-directories';
 
 configure(
