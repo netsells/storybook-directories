@@ -1,0 +1,10 @@
+{
+    "name": "@netsells/storybook-directories",
+    "author": {
+        "name": "Sam Turrell",
+        "email": "sam@samturrell.co.uk"
+    },
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+}
